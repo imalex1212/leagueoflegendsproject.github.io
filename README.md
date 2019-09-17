@@ -1,6 +1,6 @@
 # leagueoflegendsproject.github.io
-Michael McCluskey-https://michael3mccluskey.github.io./
-Deyang Bao-https://baodeyang.github.io/
-Jehuel Banson-http://Jehuel.github.io
-is there any change?
+Michael McCluskey-https://michael3mccluskey.github.io./ </br>
+Deyang Bao-https://baodeyang.github.io/</br>
+Jehuel Banson-http://Jehuel.github.io</br>
+is there any change?</p>
 
