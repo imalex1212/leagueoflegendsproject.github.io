@@ -1,2 +1,6 @@
 # leagueoflegendsproject.github.io
-will typing here update the website
+Michael McCluskey-https://michael3mccluskey.github.io./
+Deyang Bao-https://baodeyang.github.io/
+Jehuel Banson-http://Jehuel.github.io
+
+
