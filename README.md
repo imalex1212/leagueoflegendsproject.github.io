@@ -1,4 +1,4 @@
-# leagueoflegendsproject.github.io
+# League of Legends Group Project
 
 <a href="https://michael3mccluskey.github.io./">Michael McCluskey</a>
 
